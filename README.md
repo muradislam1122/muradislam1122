@@ -1,43 +1,60 @@
 
-<h1 align="center">Hi 👋, I'm Murad Islam</h1>
-<h3 align="center">Python & Django Developer | Aspiring Software Engineer</h3>
+<div align="center">
 
-<p align="center">
-  Building projects, learning new technologies, and growing every day.
-</p>
+# 👋 Hey, I'm Murad Islam
 
----
+### 🐍 Python Developer | Django Enthusiast
 
-### 👨‍💻 About Me
+*Turning ideas into code, and code into real-world projects.*
 
-- 🐍 I work with Python and Django
-- 🌐 Interested in Full-Stack Web Development
-- 🛒 Building my e-commerce project: MyShop
-- 🌱 Currently improving JavaScript, React, Git, and SQL
-- 🎯 My goal is to become a skilled Software Engineer
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/murad112200)
+[![Python](https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/Django-Web_Development-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 
-### 🛠️ Languages and Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,react,tailwind,git,github,mysql,vscode" />
-</p>
-
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=muradislammurad80-cmd&show_icons=true&theme=tokyonight" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muradislammurad80-cmd&theme=tokyonight" />
-</p>
-
-### 🤝 Connect With Me
-
-- GitHub: https://github.com/muradislammurad80-cmd
+</div>
 
 ---
 
-<p align="center">
-  💙 Code • Learn • Build • Repeat
-</p>
+## 🚀 About Me
+
+- 💻 Passionate about Python and Web Development
+- 🐍 Learning and building with Django
+- 🛒 Developing my e-commerce project — **MyShop**
+- 🌱 Improving my JavaScript, React, and SQL skills
+- 🎯 My mission: Become a skilled Software Engineer
+
+## 🧰 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+## 📌 Featured Project
+
+### 🛍️ MyShop — E-commerce Website
+
+A web application project built with Django and Tailwind CSS.
+
+- User authentication
+- Product browsing
+- Shopping cart
+- Product categories
+
+## 📈 My Developer Mindset
+
+> "Every expert was once a beginner.
+> Keep learning. Keep building. Keep growing."
+
+---
+
+<div align="center">
+
+### 💙 Code • Create • Improve • Repeat
+
+**Thanks for visiting my profile!** ⭐
+
+</div>
